@@ -33,7 +33,7 @@ $result = $conn->query($sql);
             margin: 0; padding: 0;
         }
         header {
-            background: #007bff;
+            background: #eb2ed1ff;
             color: white;
             text-align: center;
             padding: 20px;
