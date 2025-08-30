@@ -44,7 +44,7 @@ $result = $conn->query($sql);
         }
         input[type="text"] {
             padding: 8px;
-            width: 300px;
+            width: 280px;
         }
         button {
             padding: 8px 15px;
