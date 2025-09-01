@@ -86,7 +86,7 @@ $result = $conn->query($sql);
 </head>
 <body>
     <header>
-        <h1>🚗 Car Dealership</h1>
+        <h1>🚗 Car Dealershipp</h1>
         <p>Find Your Perfect Ride</p>
     </header>
 
